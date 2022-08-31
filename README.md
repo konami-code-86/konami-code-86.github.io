@@ -1,2 +1,2 @@
-# konami-code86.github.io
-A repository for FreeCodeCamp.org Projects
+# konami-code-86.github.io
+A repository for Codecademy Projects
